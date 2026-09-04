@@ -1,0 +1,16 @@
+{
+    "name": "Nexus_AI Official Source",
+    "maintainer": "Nexus Team",
+    "url": "LINK_RAW_AQUI",
+    "downloads": [
+        {
+            "title": "Meccha Chameleon",
+            "uris": [
+                "https://githubusercontent.com"
+            ],
+            "uploadDate": "2026-09-04T12:00:00Z",
+            "fileSize": "3100000000",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+    ]
+}
