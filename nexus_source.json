@@ -6,11 +6,11 @@
         {
             "title": "Meccha Chameleon",
             "uris": [
-                "magnet:?xt=urn:btih:08ada5a7a618aab5c0bc9247d743a12a543d5c64&dn=Sintel&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce"
+                "https://seu-servidor-de-armazenamento.com"
             ],
             "uploadDate": "2026-09-04T12:00:00Z",
-            "fileSize": "124",
-            "sha256": "71409a548edf3cbc4be715232567a0659af10dd553b47024e506445d991ff8b7"
+            "fileSize": "3100000000",
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         }
     ]
 }
